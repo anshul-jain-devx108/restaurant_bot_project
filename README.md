@@ -58,7 +58,6 @@ RestoBot simplifies the dining experience by providing a user-friendly chat inte
 - MySQL
 - Microsoft Bot Framework SDK
 - Axios for HTTP requests
-- Razorpay for payment processing
 - HTML
 - CSS
   
